@@ -1,0 +1,26 @@
+a:link{text-decoration:none;}
+div.image1{
+    float: left;
+}
+
+body div#content{
+    padding-left: 0.5cm;
+    display:block;}
+
+a #footer1{display: block:}
+
+aside {
+    float:left;
+    width:120px;
+ }
+
+ h5 #priv{text-decoration: underline;}
+
+ /*h5.intro{content: url("images/IMG_20181216_183641.jpg");}*/
+
+ strong.bazu::-moz-selection{
+     background:royalblue;
+     color:blueviolet;
+ }
+
+ button.navbar-toggle{border:0px}
